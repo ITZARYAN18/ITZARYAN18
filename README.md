@@ -25,6 +25,7 @@
 ---
 
 ## 🌟 Achievements & Activities
+- https://certificate.givemycertificate.com/c/2a9cc55f-8d7d-43da-922d-678cf38c1e12
 - Actively building projects to strengthen **Flutter development skills**  
 
 ---
@@ -38,9 +39,11 @@
 ---
 
 ## 📫 Let's Connect
-- LinkedIn: [Your LinkedIn Link](https://linkedin.com/in/yourprofile)  
-- GitHub: [@yourusername](https://github.com/yourusername)  
-- Email: yourmail@example.com  
+- LinkedIn: (www.linkedin.com/in/
+bhawishya-a6bab5320
+)  
+- GitHub: [@ITZARYAN18](https://github.com/ITZARYAN18)  
+- Email: Aryan0901k@gmail.com
 
 ---
 ⭐️ *Always open to collaborations, internships, and exciting opportunities in mobile development & AI.*  
