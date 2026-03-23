@@ -39,9 +39,7 @@
 ---
 
 ## 📫 Let's Connect
-- LinkedIn: (www.linkedin.com/in/
-bhawishya-a6bab5320
-)  
+- LinkedIn: (www.linkedin.com/in/bhawishya-a6bab5320)  
 - GitHub: [@ITZARYAN18](https://github.com/ITZARYAN18)  
 - Email: Aryan0901k@gmail.com
 
