@@ -86,21 +86,14 @@ fun_fact: I build apps while dreaming about neural networks 🧠
 
 <div align="center">
 
-<a href="https://github.com/ITZARYAN18/Weather-demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ITZARYAN18&repo=Weather-demo&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
-<a href="https://github.com/ITZARYAN18/to_do_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ITZARYAN18&repo=to_do_app&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/ITZARYAN18/Hackletes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ITZARYAN18&repo=Hackletes&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
-<a href="https://github.com/ITZARYAN18/Port-Folio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ITZARYAN18&repo=Port-Folio&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
+| Project | Description | Tech |
+|:--------|:------------|:----:|
+| 🌦️ [**Nimbus Aura - Weather App**](https://github.com/ITZARYAN18/Weather-demo) | Beautiful weather app with real-time data, interactive maps, forecasts & location search | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| 📝 [**To-Do App**](https://github.com/ITZARYAN18/to_do_app) | Offline task manager with add/edit/delete, completed tasks & persistent local storage | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Hive](https://img.shields.io/badge/Hive-FFD700?style=flat-square&logo=hive&logoColor=black) |
+| 🏥 [**Hackletes**](https://github.com/ITZARYAN18/Hackletes) | Hackathon prototype - working trial version | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| 🌐 [**Portfolio Website**](https://github.com/ITZARYAN18/Port-Folio) | Personal portfolio showcasing projects and skills | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| ✅ [**To-Do List (Web)**](https://github.com/ITZARYAN18/To-Do-List) | Web-based to-do list application | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 🚀 [**GoMoon App**](https://github.com/ITZARYAN18/goMoonApp) | Flutter space exploration themed app | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
 
 </div>
 
@@ -110,22 +103,12 @@ fun_fact: I build apps while dreaming about neural networks 🧠
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ITZARYAN18&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ITZARYAN18&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ITZARYAN18&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITZARYAN18&theme=tokyonight&hide_border=true&border_radius=15&layout=compact&langs_count=8" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ITZARYAN18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ITZARYAN18&theme=tokyonight&hide_border=true&border_radius=15&layout=compact&langs_count=8" alt="Top Languages"/>
 
 </div>
 
